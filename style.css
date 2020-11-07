@@ -1,0 +1,33 @@
+html, body {
+    height: 100%;
+}
+
+html {
+    display: table;
+    margin: auto;
+}
+
+body {
+    vertical-align: middle;
+
+}
+
+#my-text-field {
+  width: 600px;
+}
+
+#title {
+  display: block;
+    font-family: Ubuntu-Bold;
+    font-size: 30px;
+    color: #403866;
+}
+
+#button {
+  margin-top: 20px;
+}
+
+
+#text-field {
+
+}
